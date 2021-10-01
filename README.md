@@ -14,7 +14,7 @@ Simple whatsapp bot | Reedited from whatsasena
 
   <p align="center">
 
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Soorajakku/soorappan-2.2"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 
 </p>
 
