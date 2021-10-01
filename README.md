@@ -22,7 +22,8 @@ Simple whatsapp bot | Reedited from whatsasena
 
 <p align="center">
 
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Soorajakku/soorappan-2.2.git
+">Hisham-muhammed</a> to make it public
 
     <br>
 
