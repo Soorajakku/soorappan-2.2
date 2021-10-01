@@ -1,49 +1,5 @@
 # soorappan-2.2
 
-Simple whatsapp bot | Reedited from whatsasena 
-
-<div align="center">
-
-  <img border-radius: 15px src="https://i.imgur.com/1CjbIG8.jpeg" width="200" height="200"/>
-
-  <p align="center">
-
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-  <p align="center">
-
-<a href="https://github.com/Soorajakku/soorappan-2.2"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
-
-</p>
-
-</div>
-
-<p align="center">
-
-Project created by <a href="https://github.com/Soorajakku/soorappan-2.2.git
-">Hisham-muhammed</a> to make it public
-
-    <br>
-
-       | Â© |
-
-        Reserved |
-
-    <br> 
-
-</p>
-
-----
-
-  <p align="center">
-
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-
-    <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
-
-<p align="center">
 
 <a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
 
